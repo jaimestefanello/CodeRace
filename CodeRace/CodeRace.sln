@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeRace.UI", "CodeRace.UI\CodeRace.UI.csproj", "{35E89343-DC96-45F3-8E78-15276680345E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E89343-DC96-45F3-8E78-15276680345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E89343-DC96-45F3-8E78-15276680345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E89343-DC96-45F3-8E78-15276680345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E89343-DC96-45F3-8E78-15276680345E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B754A6-B5D0-4001-8F31-981C4A53817C}
+	EndGlobalSection
+EndGlobal
